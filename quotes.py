@@ -8,9 +8,9 @@ from extension import proxies
 from bs4 import BeautifulSoup
 import json
 
-username = 'SPusername'
-password = 'SPpassword'
-endpoint = 'gate.smartproxy.com'
+username = 'username'
+password = 'password'
+endpoint = 'gate.decodo.com'
 port = '7000'
 
 # Set up Chrome WebDriver
